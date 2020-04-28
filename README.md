@@ -1,2 +1,0 @@
-# WhatsBusy
-WhatsBusy internship assessment 
